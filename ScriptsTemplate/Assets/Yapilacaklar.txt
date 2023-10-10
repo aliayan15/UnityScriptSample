@@ -1,0 +1,5 @@
+
+
+
+
+* dosya düzenlemeleri yapılacak ve assembly reference  tanımlanıcak
